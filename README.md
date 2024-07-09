@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineering student 👨🏻‍💻
+Software Engineering Student 👨🏻‍💻
 
 
 # 💻 Tech Stack:
