@@ -16,7 +16,7 @@ Flutter + Supabase mobile app for QR-based student pickup authorization,
 with role-based access (parents/teachers) and real-time entry/exit tracking.
 
 **Stack:** Flutter, Dart, Supabase, PostgreSQL
-🔗 [View Repo](https://github.com/jonadec/REPO-NAME)
+🔗 [View Repo](https://github.com/jonadec/preescolar_app.git)
 
 ### 🏥 Clinic Management System
 Full-stack platform that digitized appointment scheduling and patient 
